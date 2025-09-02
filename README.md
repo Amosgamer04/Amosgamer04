@@ -56,12 +56,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bankoleoluwajuwon&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bankoleoluwajuwon&theme=tokyonight&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bankoleoluwajuwon&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bankoleoluwajuwon&theme=radical&hide_border=false" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bankoleoluwajuwon&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bankoleoluwajuwon&layout=compact&theme=radical" height="160px"/>
 </p>
 
 ---
