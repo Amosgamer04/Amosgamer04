@@ -53,16 +53,12 @@
 
 ---
 
-## 📊 Profile Metrics  
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bankoleoluwajuwon&theme=radical" />
+  <img src="https://github.com/bankoleoluwajuwon/bankoleoluwajuwon/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bankoleoluwajuwon&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bankoleoluwajuwon&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bankoleoluwajuwon&theme=radical" />
